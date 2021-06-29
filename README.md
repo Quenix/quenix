@@ -20,5 +20,11 @@
   ![Snake animation](https://github.com/Quenix/quenix/blob/main/github-user-contribution.svg)
  
 </div>
+ 
+<div>
+  <a href="#" style="float: right;">Avançar</a> 
+  <a href="#" style="float: left;">Voltar para a Home</a> 
+</div>
+
 
 <!-- Credits to: https://github.com/rafaballerini> Thank you! -->
